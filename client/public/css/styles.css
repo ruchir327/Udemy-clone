@@ -1,0 +1,32 @@
+.square {
+  border-radius: 0px;
+}
+
+.jumbotron {
+  /* background-image: linear-gradient(to right, #007bff, #000); */
+  background-image: linear-gradient(to right, #006eff, #9900ff);
+  color: #020f01;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .jumbotron {
+    animation: background-image infinite 20s linear;
+  }
+}
+
+
+/* @keyframes background-image {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+.custom-nav {
+  width: 250px; /* Set your desired width here */
+}
