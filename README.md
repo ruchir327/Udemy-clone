@@ -40,7 +40,8 @@ Sample application images
 
 <img width="1792" alt="paid course enroll" src="https://github.com/ruchir327/Udemy-clone/assets/72577490/8cc81e24-1c2b-47bd-bcfa-e624564f3a9b">
 
-<img width="1787" alt="course payment page" src="https://github.com/ruchir327/Udemy-clone/assets/72577490/5bed796a-3ebc-49d0-89f8-668cdf278902">
+<img width="1676" alt="PaymentPage" src="https://github.com/ruchir327/Udemy-clone/assets/72577490/8c33d81b-1d23-45bc-bfa4-22e9acc0f32c">
+
 
 
 <img width="1788" alt="course view on enrolling" src="https://github.com/ruchir327/Udemy-clone/assets/72577490/4228e9ad-76c4-4a86-a3ab-033ef1fe2939">
